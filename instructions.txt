@@ -2,6 +2,4 @@ Create a file called <your surname>.txt
 
 Write the following information inside:
 
-1. Name
-2. Email
-3. Message to class
+...
