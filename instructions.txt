@@ -2,6 +2,6 @@ Create a file called <your surname>.txt
 
 Write the following information inside:
 
-1. Name
-2. Nickname
-3. Message to class
+1. Mariqueen Tenedero
+2. Queenie
+3. Sup?
